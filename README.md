@@ -40,8 +40,11 @@ switch2.
 
 
 Direct connection: CIRCUIT DIAGRAM: 
+<img width="840" height="483" alt="Screenshot 2025-11-28 162401" src="https://github.com/user-attachments/assets/9dd85b16-4276-40bc-968b-3240bc3f3d82" />
+
 
 Tabulation:1
+
  |NODE|S1|S2|LAMP|
  |----:|----:|----:|----:|
  |1|ON|ON|ON|
@@ -50,8 +53,11 @@ Tabulation:1
  |4|OFF|OFF|ON|
 	
 Cross connection: CIRCUIT DIAGRAM:
+<img width="751" height="373" alt="Screenshot 2025-12-10 090628" src="https://github.com/user-attachments/assets/3c85efab-445f-45a7-bdeb-9f8e6200a076" />
+
 
 Tabulation:2
+
  |NODE|S1|S2|LAMP|
  |----:|----:|----:|----:|
  |1|ON|ON|OFF|
